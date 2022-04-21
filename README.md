@@ -12,4 +12,9 @@ Along with our Neural Network topics, our team has made an easy attempt to enabl
 
 ## Getting Started
 
-1. Create an environment that has [these](https://github.com/xiamze/steering_angle_prediction/blob/main/environment.yml) packages (Anaconda recommended)
+1. Create an environment with [packages](https://github.com/xiamze/steering_angle_prediction/blob/main/environment.yml) (Anaconda recommended)
+'''
+python 
+'''
+
+3. 
