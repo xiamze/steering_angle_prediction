@@ -2,7 +2,7 @@
 
 This project develops a camera-based steering angle prediction with Keras and Udacity simulator.
 
-[!picture](https://github.com/xiamze/steering_angle_prediction/blob/main/Image/1.png)
+[picture](https://github.com/xiamze/steering_angle_prediction/blob/main/Image/1.png)
 
 ## About the project
 
