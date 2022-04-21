@@ -1,4 +1,4 @@
-# Controlling a Vehicle’s Steering Angle With Convolutional Neural Networks (CNN)
+# Controlling a Vehicle’s Steering Angle With Convolutional Neural Networks (CNN) and Udacity Simulator
 ## About the project
 This project develops a camera-based steering angle prediction with Keras and Udacity simulator.
 
