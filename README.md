@@ -13,8 +13,9 @@ Along with our Neural Network topics, our team has made an easy attempt to enabl
 ## Getting Started
 
 1. Create an environment with [packages](https://github.com/xiamze/steering_angle_prediction/blob/main/environment.yml) (Anaconda recommended)
-'''
+
+```
 python 
-'''
+```
 
 3. 
