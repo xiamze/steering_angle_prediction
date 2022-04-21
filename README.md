@@ -8,7 +8,7 @@ This project develops a camera-based steering angle prediction with Keras and Ud
 
 Computer vision plays a key role as it processes images with rich and direct information in vehicle autonomy. Compared to technologies like radar, which provides only limited surrounding information through complicated processing, computer vision offers methods to detect and model every image element in a stable, efficient way at lower cost. Along with our Neural Network topics, our team has made an easy attempt to enable vehicle autonomy with CNN and udacity simulator. 
 
-First, we generate a training dataset by manually controlling the car and images taken by its virtual cameras will be saved. Then we load the images and saved steering angles into a data augmentation pipeline to produce data diversity; augmented data will come into CNN training in batches, and finally we obtain a model that could predict the steering angle with an input image. Specific details are as follows.
+First, we generate a training dataset by manually controlling the car and images taken by its virtual cameras will be saved. Then we load the images and saved steering angles into a data augmentation pipeline to produce data diversity; augmented data will come into CNN training in batches, and finally we obtain a model that could predict the steering angle with an input image.
 
 ## Dependancies
 
