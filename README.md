@@ -4,7 +4,7 @@ This project develops a camera-based steering angle prediction with Keras and Ud
 
 ![](https://github.com/xiamze/steering_angle_prediction/blob/main/Image/1.png)
 
-## About The Project
+## Overview
 
 Computer vision plays a key role as it processes images with rich and direct information in vehicle autonomy. Compared to technologies like radar, which provides only limited surrounding information through complicated processing, computer vision offers methods to detect and model every image element in a stable, efficient way at lower cost. Along with our Neural Network topics, our team has made an easy attempt to enable vehicle autonomy with CNN and udacity simulator. 
 
