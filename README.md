@@ -36,6 +36,7 @@ python drive.py model.h5
 
 ## Credits
 Simulator source: https://github.com/udacity/self-driving-car-sim
+
 Helpful tutorial: https://github.com/HamdiTarek/Self_Driving_Car/tree/master/Self_Driving_Car/How_to_simulate_a_self_driving_car-master
 
 
