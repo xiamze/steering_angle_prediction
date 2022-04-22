@@ -2,6 +2,8 @@
 
 This project develops a camera-based steering angle prediction with Keras and Udacity simulator.
 
+本项目基于Udacity模拟器与Keras库训练了读取图像并预测转向角的卷积神经网络模型.
+
 ![](https://github.com/xiamze/steering_angle_prediction/blob/main/Image/1.png)
 
 ## Overview
