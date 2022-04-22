@@ -34,3 +34,9 @@ Open simulator.exe autonomous mode and run the following to load model into simu
 python drive.py model.h5
 ```
 
+## Credits
+Simulator source: https://github.com/udacity/self-driving-car-sim
+
+
+
+
