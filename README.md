@@ -12,10 +12,15 @@ First, we generate a training dataset by manually controlling the car and images
 
 ## Dependancies
 
-Create an environment with [packages](https://github.com/xiamze/steering_angle_prediction/blob/main/environment.yml) (Anaconda recommended) by running the following command.
+Create an environment with [packages](https://github.com/xiamze/steering_angle_prediction/blob/main/environment.yml) (Anaconda recommended) by running the following command. If the code doesn't work, install manually by pip according to the .yml file.
 
 ```
 conda env create -f environment.yml 
 ```
-If the code doesn't work, install manually by pip according to the .yml file.
+Remember to switch to the environment each time before use.
+```
+activate carnd-term1
+```
+
+## Usage
 
