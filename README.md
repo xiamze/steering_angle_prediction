@@ -22,5 +22,15 @@ Remember to switch to the environment each time before use.
 activate carnd-term1
 ```
 
-## Usage
+## Training and Testing
+
+Run the following to train the model.
+```
+python model.py
+```
+
+Open simulator.exe autonomous mode and run the following to load model into simulation.
+```
+python drive.py model.h5
+```
 
